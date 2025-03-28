@@ -1,3 +1,7 @@
+# Programmer: Austin Long
+# Date: 2025-03-28
+# Program: Employee Class
+
 # Program #4 Employee Class:
 # Write a class Employee that holds the following data about an employee in attributes: name, ID number, department, and job title.
 
